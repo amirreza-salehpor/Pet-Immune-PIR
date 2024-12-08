@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: Z:\A.Salehpoor\Amirreza\Projects\PIR\Orginal\PIR_Sensor\Shematic & PCB\PIR_Sensor_V1.3.1_1402.06.01\Outputs For PIR_Sensor_V1.3.1_Nov2023\PIR_Sensor_Sheet_V1.3.1_Nov2023.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

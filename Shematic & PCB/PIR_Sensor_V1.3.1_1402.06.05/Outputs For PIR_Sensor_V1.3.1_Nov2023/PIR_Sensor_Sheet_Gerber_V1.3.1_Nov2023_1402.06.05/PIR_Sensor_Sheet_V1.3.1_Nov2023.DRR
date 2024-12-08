@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PIR_Sensor_Sheet_V1.3.1_Nov2023.PcbDoc   8/27/2023  2:31:49 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PIR_Sensor_Sheet_V1.3.1_Nov2023-Plated.TXT
+ASCII Plated RectHoles File : PIR_Sensor_Sheet_V1.3.1_Nov2023-RectHoles-Plated.TXT
+EIA File   : PIR_Sensor_Sheet_V1.3.1_Nov2023.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             1340      PTH        321.47inch (8165.26mm)
+T2      28mil (0.7mm)                                             Round             40        PTH        56.90inch (1445.25mm)
+T3      32mil (0.8mm)                                             Round             60        PTH        54.76inch (1391.03mm)
+T4      39mil (1mm)                                               Round             160       PTH        92.16inch (2340.74mm)
+T5      47mil (1.2mm)                                             Round             120       PTH        68.38inch (1736.93mm)
+T6      81mil (2.05mm)                                            Round             8         PTH        38.41inch (975.66mm)
+T7      94mil (2.4mm)                                             Rectangle         20        PTH        105.11inch (2669.82mm)
+T8      98mil (2.5mm)                                             Rectangle         80        PTH        197.01inch (5004.09mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1828
+
+Total Processing Time (hh:mm:ss) : 00:00:00

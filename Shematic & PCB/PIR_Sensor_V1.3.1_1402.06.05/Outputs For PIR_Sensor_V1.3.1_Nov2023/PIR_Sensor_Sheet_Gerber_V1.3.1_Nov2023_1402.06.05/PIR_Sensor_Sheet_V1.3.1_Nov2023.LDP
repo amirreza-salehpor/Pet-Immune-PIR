@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Z:\A.Salehpoor\Amirreza\Projects\PIR\Orginal\PIR_Sensor\Shematic & PCB\PIR_Sensor_V1.3.1_1402.06.01\Outputs For PIR_Sensor_V1.3.1_Nov2023\PIR_Sensor_Sheet_V1.3.1_Nov2023.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pir_sensor_sheet_v1.3.1_nov2023-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=pir_sensor_sheet_v1.3.1_nov2023-rectholes-plated.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,16 @@
+Source PCB Design PIR_Sensor_Sheet_V1.3.1_Nov2023.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[PIR_Sensor_Sheet_V1.3.1_Nov2023-Plated.TXT]
+   Generated File[PIR_Sensor_Sheet_V1.3.1_Nov2023-RectHoles-Plated.TXT]
+   Generated File[PIR_Sensor_Sheet_V1.3.1_Nov2023.DRL]
+   Generated File[PIR_Sensor_Sheet_V1.3.1_Nov2023.LDP]
+   Generated File[PIR_Sensor_Sheet_V1.3.1_Nov2023.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 2:31:49 PM On 8/27/2023

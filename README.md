@@ -1,35 +1,40 @@
 # PET PIR Immune Motion Detector
 This project is a PET PIR immune motion detector, designed to detect human movement while minimizing false alarms triggered by small animals (pets). The product was successfully prototyped and manufactured, with over 10,000 units sold.
 
-🔧 Project Overview
+# 🔧 Project Overview
+
 This device combines both analog and digital electronics to provide reliable motion detection with pet immunity. It was designed for use in alarm systems and smart security solutions.
 
-🛠️ My Contributions
-Designed both analog and digital schematics
+# 🛠️ My Contributions
 
-Created multi-layer PCB layouts using Altium Designer
+* Designed both analog and digital schematics
 
-Built and tested fully functional prototypes
+* Created multi-layer PCB layouts using Altium Designer
 
-Participated in mass production, with over 10,000 units successfully deployed
+* Built and tested fully functional prototypes
 
-🧪 Features
-PIR motion detection with pet immunity (false alarm suppression)
+* Participated in mass production, with over 10,000 units successfully deployed
 
-Compact and efficient PCB design
+# 🧪 Features
 
-Stable performance in varied indoor environments
+* PIR motion detection with pet immunity (false alarm suppression)
 
-Designed for integration with alarm systems
+* Compact and efficient PCB design
 
-🧰 Tools & Technologies
-Altium Designer (schematic and PCB layout)
+* Stable performance in varied indoor environments
 
-Embedded microcontroller for signal processing (if applicable)
+* Designed for integration with alarm systems
 
-Analog circuitry for PIR signal filtering and conditioning
+# 🧰 Tools & Technologies
 
-Rapid prototyping and real-world testing
+* Altium Designer (schematic and PCB layout)
 
-🚀 Project Outcome
+* Embedded microcontroller for signal processing (if applicable)
+
+* Analog circuitry for PIR signal filtering and conditioning
+
+* Rapid prototyping and real-world testing
+
+# 🚀 Project Outcome
+
 This product was successfully commercialized and deployed in the field, with 10,000+ units sold. It demonstrated strong performance, high reliability, and user satisfaction in real security installations.
